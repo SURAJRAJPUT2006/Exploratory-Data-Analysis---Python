@@ -1,2 +1,2 @@
 # Exploratory-Data-Analysis---Python
-Performing pythons libraries to get insights through sample data !!! Used pandas, numpy, matplotlib and some seaborn functionalities...
+Performing exploratory data analysis using Python libraries such as pandas, numpy, matplotlib, and seaborn
